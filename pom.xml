@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
 
     <name>testngit</name>
-    <description>A library for interacting with test frameworks when informed by information for Git.</description>
+    <description>A library for interacting with test frameworks when informed by information from Git.</description>
 
     <developers>
         <developer>
